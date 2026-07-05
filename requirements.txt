@@ -1,0 +1,9 @@
+pandas
+numpy<2.0.0
+joblib
+catboost
+shap
+scipy
+streamlit
+statsmodels
+scikit-learn
